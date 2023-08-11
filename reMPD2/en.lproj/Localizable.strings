@@ -1,0 +1,22 @@
+/* 
+  Localized.strings
+  reMPD2
+
+  Created by Jurica Bacurin on 22.01.13.
+  Copyright (c) 2013 Jurica Bacurin. All rights reserved.
+*/
+
+"searchbar.placeholder" = "Search for";
+"searchbar.scopeAny" = "Any";
+"searchbar.scopeArtist" = "Artist";
+"searchbar.scopeAlbum" = "Album";
+"searchbar.scopeTitle" = "Title";
+"settings.connected.yes" = "Yes";
+"settings.connected.no" = "No";
+"stats.Artists" = "Artists";
+"stats.Albums" = "Albums";
+"stats.Songs" = "Songs";
+"stats.Played" = "Played";
+"stats.Playtime" = "Playtime";
+"stats.Updated" = "Updated";
+"stats.Updated.timeformat" = "'on' yyyy-MM-dd 'at' HH:mm";

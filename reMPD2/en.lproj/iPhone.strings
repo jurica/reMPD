@@ -1,0 +1,172 @@
+
+/* Class = "IBUITabBarItem"; title = "Now Playing"; ObjectID = "4lu-Hj-g7I"; */
+"4lu-Hj-g7I.title" = "Now Playing";
+
+/* Class = "IBUIBarButtonItem"; title = "Load"; ObjectID = "5N4-0u-jLv"; */
+"5N4-0u-jLv.title" = "Load";
+
+/* Class = "IBUISearchBar"; placeholder = "Suchen nach"; ObjectID = "Skw-yH-tSy"; */
+"Skw-yH-tSy.placeholder" = "Search for";
+
+/* Class = "IBUISearchBar"; Skw-yH-tSy.scopeButtonTitles[0] = "Any"; ObjectID = "Skw-yH-tSy"; */
+"Skw-yH-tSy.scopeButtonTitles[0]" = "Any";
+
+/* Class = "IBUISearchBar"; Skw-yH-tSy.scopeButtonTitles[1] = "Artist"; ObjectID = "Skw-yH-tSy"; */
+"Skw-yH-tSy.scopeButtonTitles[1]" = "Artist";
+
+/* Class = "IBUISearchBar"; Skw-yH-tSy.scopeButtonTitles[2] = "Album"; ObjectID = "Skw-yH-tSy"; */
+"Skw-yH-tSy.scopeButtonTitles[2]" = "Album";
+
+/* Class = "IBUISearchBar"; Skw-yH-tSy.scopeButtonTitles[3] = "Title"; ObjectID = "Skw-yH-tSy"; */
+"Skw-yH-tSy.scopeButtonTitles[3]" = "Title";
+
+/* Class = "IBUILabel"; text = "Now Playing"; ObjectID = "ANd-FR-t6M"; */
+"ANd-FR-t6M.text" = "Now Playing";
+
+/* Class = "IBUILabel"; text = "Port"; ObjectID = "AVC-ra-Jzf"; */
+"AVC-ra-Jzf.text" = "Port";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "CAm-lq-Lrf"; */
+"CAm-lq-Lrf.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Server"; ObjectID = "CEQ-cg-iY0"; */
+"CEQ-cg-iY0.text" = "Server";
+
+/* Class = "IBUINavigationItem"; title = "Albums"; ObjectID = "Com-Qk-Er4"; */
+"Com-Qk-Er4.title" = "Albums";
+
+/* Class = "IBUINavigationItem"; title = "Database"; ObjectID = "G52-HY-qNC"; */
+"G52-HY-qNC.title" = "Database";
+
+/* Class = "IBUIBarButtonItem"; title = "Load"; ObjectID = "GFA-S4-CHT"; */
+"GFA-S4-CHT.title" = "Load";
+
+/* Class = "IBUILabel"; text = "currentTrack"; ObjectID = "GI0-ov-1XN"; */
+"GI0-ov-1XN.text" = "currentTrack";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "HFU-ej-iQg"; */
+"HFU-ej-iQg.text" = "Title";
+
+/* Class = "IBUILabel"; text = "nextTrack"; ObjectID = "HjR-yN-3Do"; */
+"HjR-yN-3Do.text" = "nextTrack";
+
+/* Class = "IBUITextField"; placeholder = "Playlist name"; ObjectID = "J8x-ns-LOQ"; */
+"J8x-ns-LOQ.placeholder" = "Playlist name";
+
+/* Class = "IBUINavigationItem"; title = "Songs"; ObjectID = "Kw4-R6-GHr"; */
+"Kw4-R6-GHr.title" = "Songs";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "MCG-rU-C4t"; */
+"MCG-rU-C4t.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Connected"; ObjectID = "NRq-qF-kHI"; */
+"NRq-qF-kHI.text" = "Connected";
+
+/* Class = "IBUIBarButtonItem"; title = "Edit"; ObjectID = "P0L-KU-wjl"; */
+"P0L-KU-wjl.title" = "Edit";
+
+/* Class = "IBUITabBarItem"; title = "Settings"; ObjectID = "PYk-xQ-IZD"; */
+"PYk-xQ-IZD.title" = "Settings";
+
+/* Class = "IBUILabel"; text = "nextArtist"; ObjectID = "Q0Y-RP-UNq"; */
+"Q0Y-RP-UNq.text" = "nextArtist";
+
+/* Class = "IBUILabel"; text = "currentArtist"; ObjectID = "R1K-aS-M5T"; */
+"R1K-aS-M5T.text" = "currentArtist";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "RhN-46-SaW"; */
+"RhN-46-SaW.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Albums"; ObjectID = "Rqu-DB-Up5"; */
+"Rqu-DB-Up5.text" = "Albums";
+
+/* Class = "IBUILabel"; text = "Stats"; ObjectID = "SHh-sf-ohA"; */
+"SHh-sf-ohA.text" = "Stats";
+
+/* Class = "IBUILabel"; text = "nextAlbum"; ObjectID = "U2N-Nq-zrl"; */
+"U2N-Nq-zrl.text" = "nextAlbum";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "VVX-q2-fQm"; */
+"VVX-q2-fQm.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "VbR-5N-f4g"; */
+"VbR-5N-f4g.text" = "Subtitle";
+
+/* Class = "IBUITabBarItem"; title = "Current Playlist"; ObjectID = "Wid-Ca-h7W"; */
+"Wid-Ca-h7W.title" = "Current Playlist";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "XfR-bt-d5L"; */
+"XfR-bt-d5L.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "at7-ty-6xA"; */
+"at7-ty-6xA.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Next"; ObjectID = "b0l-WS-0Yo"; */
+"b0l-WS-0Yo.text" = "Next";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "bWD-ev-t2c"; */
+"bWD-ev-t2c.title" = "Done";
+
+/* Class = "IBUINavigationItem"; title = "Artists"; ObjectID = "bWn-8c-cse"; */
+"bWn-8c-cse.title" = "Artists";
+
+/* Class = "IBUILabel"; text = "Songs"; ObjectID = "cI6-Ly-fNu"; */
+"cI6-Ly-fNu.text" = "Songs";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "e3b-NF-zvS"; */
+"e3b-NF-zvS.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Songs"; ObjectID = "enh-Ah-xpe"; */
+"enh-Ah-xpe.title" = "Songs";
+
+/* Class = "IBUILabel"; text = "Artists"; ObjectID = "fCC-ys-T25"; */
+"fCC-ys-T25.text" = "Artists";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "fbs-bh-Thf"; */
+"fbs-bh-Thf.text" = "Title";
+
+/* Class = "IBUILabel"; text = "currentAlbum"; ObjectID = "g8s-Lc-XaM"; */
+"g8s-Lc-XaM.text" = "currentAlbum";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "mII-iV-oDD"; */
+"mII-iV-oDD.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Playlists"; ObjectID = "mMZ-aK-vPf"; */
+"mMZ-aK-vPf.text" = "Playlists";
+
+/* Class = "IBUIBarButtonItem"; title = "Load"; ObjectID = "o9T-6s-G1D"; */
+"o9T-6s-G1D.title" = "Load";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "qBw-Jx-ZZ7"; */
+"qBw-Jx-ZZ7.text" = "Name";
+
+/* Class = "IBUINavigationItem"; title = "Playlists"; ObjectID = "wCc-dE-TQj"; */
+"wCc-dE-TQj.title" = "Playlists";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "wFt-t8-nYA"; */
+"wFt-t8-nYA.text" = "Title";
+
+/* Class = "IBUITabBarItem"; title = "Database"; ObjectID = "xkZ-hD-iw7"; */
+"xkZ-hD-iw7.title" = "Database";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "xri-Vv-cBN"; */
+"xri-Vv-cBN.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "y5M-ln-VLe"; */
+"y5M-ln-VLe.text" = "Subtitle";
+
+/* Class = "IBUIBarButtonItem"; title = "Load"; ObjectID = "ysB-ey-I3X"; */
+"ysB-ey-I3X.title" = "Load";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "z1B-Ps-G2M"; */
+"z1B-Ps-G2M.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "zEc-eu-rZD"; */
+"zEc-eu-rZD.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Not connected to MPD server!
+ 
+ Press Button to (re)connect!"; ObjectID = "M6t-b1-a4h"; */
+"M6t-b1-a4h.text" = "Not connected to MPD server!
+
+Press Button to (re)connect!";
